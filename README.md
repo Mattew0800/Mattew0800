@@ -17,7 +17,7 @@
 ## Sobre mi
 
 - Junior Backend Developer
-- Cursando último año de la Tecnicatura Universitaria en Programación (UTN ARGENTINA)
+- Cursando último año de la <b>Tecnicatura Universitaria en Programación</b> (UTN ARGENTINA)
 - 
 -
 
