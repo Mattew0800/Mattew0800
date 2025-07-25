@@ -2,13 +2,21 @@
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/oyhamburu-matias">Matias Oyhamburu</a> 👋</h1>
 </div>
 <img src="https://i.postimg.cc/cChXChsQ/1738607836388.jpg">
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Sobre mi
 
 - Junior Backend Developer
--
--
+- Cursando último año de la Tecnicatura Universitaria en Programación en la Universidad Tecnologica Nacional (Argentina)
+- 
 -
 
 ## Proyectos *bombitas*
