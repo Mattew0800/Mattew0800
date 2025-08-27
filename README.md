@@ -18,8 +18,8 @@
 
 - Junior Backend Developer
 - Cursando último año de la <b>Tecnicatura Universitaria en Programación</b> (UTN ARGENTINA)
-- 
--
+- Actualmente situado en Argentina, Buenos Aires, Mar del plata.
+- A los 14 años emprendí el viaje a este apasionante mundo de la programación. Me encanta la autosuperación y la mejora constante, aprendiendo nuevas metodologías ágiles, gestión de desarrollo de software, patrones de diseño, y todo lo que me haga progresar en mi carrera.
 
 <br>
 
