@@ -16,10 +16,16 @@
 
 ## Sobre mi
 
-- Junior Backend Developer
-- Cursando último año de la <b>Tecnicatura Universitaria en Programación</b> (UTN ARGENTINA)
+Soy Desarrollador Full Stack Junior egresado de la Tecnicatura Universitaria en Programación (UTN), con experiencia y especial interés en el desarrollo frontend utilizando Angular, TypeScript, RxJS y SCSS para construir aplicaciones web modernas, escalables y mantenibles, con foco en la experiencia de usuario y la calidad técnica.
+
+Cuento con formación en desarrollo backend utilizando Java y Spring Boot para la construcción de APIs REST, lógica de negocio y persistencia de datos. Además, poseo una sólida formación en bases de datos y arquitectura de software.
+
+Trabajo bajo metodologías ágiles como Scrum y utilizo herramientas como Git para control de versiones y trabajo colaborativo.
+
+Busco incorporarme a un equipo IT donde pueda aplicar mis conocimientos, continuar desarrollándome profesionalmente y participar en proyectos de impacto real.
+
 - Actualmente situado en Argentina, Buenos Aires, Mar del plata.
-- A los 14 años emprendí el viaje a este apasionante mundo de la programación. Me encanta la autosuperación y la mejora constante, aprendiendo nuevas metodologías ágiles, gestión de desarrollo de software, patrones de diseño, y todo lo que me haga progresar en mi carrera.
+
 
 <br>
 
